@@ -50,14 +50,22 @@ const RESOURCES = {"404.html": "8ec6ce8090d1c6642fc103d41c165b01",
 "canvaskit/skwasm.worker.js": "89990e8c92bcb123999aa81f7e203b1c",
 "favicon.png": "7dee723b9c5868cc4d0f43cab92f9422",
 "flutter.js": "4b2350e14c6650ba82871f60906437ea",
+<<<<<<< HEAD
+"flutter_bootstrap.js": "b9f8766f4a91413d158bcd5a41f9556b",
+=======
 "flutter_bootstrap.js": "377f64954488679a257954bb8f128ebe",
+>>>>>>> c769ded76593f6a286fa4ca435826dc45d014c2d
 "icons/Icon-192.png": "7dee723b9c5868cc4d0f43cab92f9422",
 "icons/Icon-512.png": "7dee723b9c5868cc4d0f43cab92f9422",
 "icons/Icon-maskable-192.png": "7dee723b9c5868cc4d0f43cab92f9422",
 "icons/Icon-maskable-512.png": "7dee723b9c5868cc4d0f43cab92f9422",
 "index.html": "3556cbee89c26c0fff70e3e123c88c4b",
 "/": "3556cbee89c26c0fff70e3e123c88c4b",
+<<<<<<< HEAD
+"main.dart.js": "894dc874900c7169678fd5ff439b6de8",
+=======
 "main.dart.js": "05737e78a524903df23d93af25785d8e",
+>>>>>>> c769ded76593f6a286fa4ca435826dc45d014c2d
 "manifest.json": "7f754fafb703970b3136305ae2380da9",
 "robots.txt": "b36b68b2742c041c5750b07a3d6882c3",
 "sitemap.xml": "d2f28fc7df4620538d1cd7f16c763e68",
